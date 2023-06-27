@@ -1,8 +1,9 @@
 # Practice №1  
-## This repository is a test repository.  
+
 ---
-#### **comamnd line**  
-Cd .. #parent directory 
+## command line
+
+Cd <dir> #parent directory 
 Ls  “List directory Contents”  
 Ls -a #extended list   
 Pwd  “print working directory”  
