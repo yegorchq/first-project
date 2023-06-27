@@ -1,6 +1,7 @@
 # Practice №1  
 ## This repository is a test repository.  
 ---
+*comamnd line*
 Cd .. #parent directory 
 Ls  “List directory Contents”  
 Ls -a #extended list   
@@ -13,7 +14,7 @@ Mv <what><what> <where> “move”
 Cat “conCATenate and print” #textOnly  
 Rm, Rmdir “remove”  
 Rm -r <> “remove with recurse”  
-———————————  
+---
 git config —global user.name “name”  
 git init   
 rm -rf  .git (r-recursion, f-forced)   
@@ -39,7 +40,7 @@ git push -u origin master
 git push origin master   
 git push origin —all  
 
-———————————
+---
 
 SSH “Secure SHell protocol”  
 ssh-keygen -t ed25519 -C “<email>  
