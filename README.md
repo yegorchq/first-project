@@ -1,7 +1,7 @@
 # Practice №1  
 ## This repository is a test repository.  
 ---
-**comamnd line**  
+#### **comamnd line**  
 Cd .. #parent directory 
 Ls  “List directory Contents”  
 Ls -a #extended list   
